@@ -4,7 +4,7 @@ The iris dataset contains measurements for 150 iris flowers from three different
 
 The three classes in the Iris dataset:
 
-Iris-setosa (n=50)
+Iris-setosa (n=50) <br>
 Iris-versicolor (n=50)
 Iris-virginica (n=50)
 
